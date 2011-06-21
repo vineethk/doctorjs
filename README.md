@@ -69,3 +69,4 @@ The directory structure mostly follows the CommonJS packaging scheme:
 
 [parser]: http://localhost:8080/html/parser.html
 
+Vineeth: Changing this project to perform static (or mostly static information flow tracking). 
